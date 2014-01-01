@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:enterFadeDuration="200" android:exitFadeDuration="200">
+    <!-- pressed -->
+    <item android:drawable="@drawable/fg_card_pressed" android:state_pressed="true"/>
+    <!-- default -->
+    <item android:drawable="@android:color/transparent"/>
+</selector>

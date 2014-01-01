@@ -1,1 +1,1 @@
-include ':TabletFragments'
+include ':TabletFragments', ':ForegroundViews'
